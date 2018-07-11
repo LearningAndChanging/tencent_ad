@@ -1,0 +1,1 @@
+讲原始数据中训练数据train.csv中的用户id，广告id和userFeature中的用户信息及广告信息合并成一个表。
